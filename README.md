@@ -3,6 +3,6 @@
 - 🎓 Computer Science undergraduate
 - 💻 Full-Stack Developer
 - 🧠 Interested in backend engineering and scalable systems
-- 🛠 Working with Java, JavaScript, MySQL, MongoDB
+- 🛠 Working with Laravel, JavaScript, MySQL, Java
 - 🚀 Always learning and improving
 
